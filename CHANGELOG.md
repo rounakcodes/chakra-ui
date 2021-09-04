@@ -17,6 +17,19 @@ To better understand the changelog, here are some legends we use:
 
 <!-- CHANGELOG:INSERT -->
 
+## 04-09-2021
+
+**Image** `v1.0.20`
+
+- If the user doesn't provide a `fallbackSrc` or a `fallback` `ignoreFallback` is
+  applied by default
+
+**Select** `v1.1.15`
+
+- The disabled state of the `SelectIcon` can be reflected by a disabled
+  `FormControl` or by the `isDisabled`-flag of the `select` field
+
+
 ## 29-08-2021
 
 `@chakra-ui/react@1.6.7`
